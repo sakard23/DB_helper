@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Galaxy x5</string>
+    <string name="action_settings">Settings</string>
+    <string name="xyk">Welcome to University Bazaar System (UBS)...</string>
+    <string name="cloyd">University of Texas at Arlington</string>
+    <string name="log">Login and Register</string>
+    <string name="club">UBS Club page </string>
+    <string name="join">Join an existing clubs</string>
+    <string name="create">Create a new club</string>
+    <string name="manage">Manage member\'s club(s)</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_createclub_list">CreateClub</string>
+    <string name="title_createclub_detail">CreateClub Detail</string>
+</resources>
